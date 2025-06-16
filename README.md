@@ -33,7 +33,7 @@ Proyek ini dibuat sebagai bagian dari praktik **mata kuliah Pemrograman Web Lanj
 
 ## 📁 Struktur Folder
 
-```
+---
 
 /
 ├── api/
@@ -51,7 +51,7 @@ Proyek ini dibuat sebagai bagian dari praktik **mata kuliah Pemrograman Web Lanj
 ├── index.php                  # Entry point aplikasi
 └── README.md                  # Dokumentasi proyek ini
 
-````
+---
 
 > 🔧 Folder `/vendor/` akan dibuat otomatis setelah menjalankan `composer install`
 
