@@ -136,5 +136,3 @@ Proyek ini dikembangkan sebagai bagian dari tugas perkuliahan:
 Proyek ini hanya untuk keperluan edukasi. Tidak disarankan untuk digunakan dalam produksi tanpa modifikasi keamanan lebih lanjut.
 
 ---
-
-Untuk menambahkan visual, badge, atau link dokumentasi API, tinggal bilang—aku bisa bantu buatkan [README bergambar](f) atau [badge otomatis](f).
